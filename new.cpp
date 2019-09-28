@@ -7,5 +7,5 @@ int main(){
 	pre[1000]=29;
 	pre[1001]=282;
 	double d= pre[-4];
-	cout<<endl<<pre[1000]<<endl<<d;
+	cout<<endl<<"<pre[1000]<<endl<<d;";
 }
